@@ -27,7 +27,7 @@ github_username:  rahulmoghe93
 
 # Build settings
 markdown: kramdown
-remote-theme: jekyll-theme-cayman
+remote-theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
